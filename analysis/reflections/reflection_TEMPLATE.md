@@ -1,38 +1,36 @@
-# Individual Reflection — Lab 18
+# Individual Reflection - Lab 18
 
-**Tên:** [Họ tên]  
-**Module phụ trách:** [M1/M2/M3/M4]
+**Ten:** [Ho ten]  
+**Module phu trach:** [M1/M2/M3/M4/M5]
 
----
+## 1. Dong gop ky thuat
 
-## 1. Đóng góp kỹ thuật
+- Module da implement:
+- Ham/class chinh:
+- So tests pass: /
 
-- Module đã implement:
-- Các hàm/class chính đã viết:
-- Số tests pass: /
+## 2. Kien thuc hoc duoc
 
-## 2. Kiến thức học được
+- Khai niem moi:
+- Dieu bat ngo:
+- Ket noi voi bai giang:
 
-- Khái niệm mới nhất:
-- Điều bất ngờ nhất:
-- Kết nối với bài giảng (slide nào):
+## 3. Kho khan & Cach giai quyet
 
-## 3. Khó khăn & Cách giải quyết
+- Kho khan lon nhat:
+- Cach debug:
+- Thoi gian debug:
 
-- Khó khăn lớn nhất:
-- Cách giải quyết:
-- Thời gian debug:
+## 4. Neu lam lai
 
-## 4. Nếu làm lại
+- Se lam khac dieu gi:
+- Module muon thu tiep:
 
-- Sẽ làm khác điều gì:
-- Module nào muốn thử tiếp:
+## 5. Tu danh gia
 
-## 5. Tự đánh giá
-
-| Tiêu chí | Tự chấm (1-5) |
-|----------|---------------|
-| Hiểu bài giảng | |
-| Code quality | |
-| Teamwork | |
-| Problem solving | |
+| Tieu chi        | Tu cham (1-5) |
+| --------------- | ------------: |
+| Hieu bai giang  |               |
+| Code quality    |               |
+| Teamwork        |               |
+| Problem solving |               |
